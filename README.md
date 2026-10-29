@@ -162,16 +162,6 @@ streamlit run app.py
 
 ---
 
-## Deployment — Streamlit Community Cloud
-
-1. Push this repository to GitHub (public)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **New App** → select this repository
-4. Branch: `main` | File: `app.py`
-5. Click **Deploy**
-
----
-
 ## Dependencies
 
 ```
